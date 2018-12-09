@@ -5,4 +5,3 @@ In the project directory, you can run:
 
 ### `npm start`
 
-￼![ScreenSchot of practice](/componentApp/public/screen.png)
